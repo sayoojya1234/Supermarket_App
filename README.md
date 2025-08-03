@@ -2,10 +2,8 @@
 Node &amp; Angular project on A4 Sem1
 
 # Team Members
-Rubesh Prabakaran <br />
-Devaraj RAMAMOORTHY <br />
-Yunhao Zhou <br />
-Luthfi JUNEEDA SHAJ 
+Sayoojya ps <br />
+
 
 # Description
 Developing an application<br />
